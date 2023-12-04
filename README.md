@@ -1,4 +1,5 @@
-# voting_system![Screenshot (135)](https://github.com/koushikxy/voting_system/assets/120478621/ede731d7-072f-444d-acad-d6c0206b7c31)
+# voting_system
+![Screenshot (135)](https://github.com/koushikxy/voting_system/assets/120478621/ede731d7-072f-444d-acad-d6c0206b7c31)
 ![Screenshot (136)](https://github.com/koushikxy/voting_system/assets/120478621/a4c61e39-4527-43bd-a176-3808f9ae8e43)
 ![Screenshot (137)](https://github.com/koushikxy/voting_system/assets/120478621/f22d0beb-c25b-4db5-b046-7d5a18a7452e)
 ![Screenshot (138)](https://github.com/koushikxy/voting_system/assets/120478621/3a2f529d-c737-4d17-972e-da7728e7052d)
